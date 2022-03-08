@@ -1,0 +1,31 @@
+CRITICAL - 2022-02-09 19:59:14 --> Class "App\Models\CatatanPerjalanan_model" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\IsiData->simpan()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\IsiData))
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-09 20:02:08 --> foreach() argument must be of type array|object, bool given
+#0 D:\PELAJARAN\Tugas UKK RPL\app\Views\catatan_perjalanan.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\PELAJARAN\\Tu...', 26)
+#1 D:\PELAJARAN\Tugas UKK RPL\system\View\View.php(210): include('D:\\PELAJARAN\\Tu...')
+#2 D:\PELAJARAN\Tugas UKK RPL\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\PELAJARAN\Tugas UKK RPL\system\Common.php(1089): CodeIgniter\View\View->render('catatan_perjala...', Array, true)
+#4 D:\PELAJARAN\Tugas UKK RPL\app\Controllers\catatanperjalanan.php(28): view('catatan_perjala...', Array)
+#5 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\CatatanPerjalanan->index()
+#6 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CatatanPerjalanan))
+#7 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#10 {main}
+CRITICAL - 2022-02-09 20:26:36 --> foreach() argument must be of type array|object, bool given
+#0 D:\PELAJARAN\Tugas UKK RPL\app\Views\catatan_perjalanan.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'D:\\PELAJARAN\\Tu...', 26)
+#1 D:\PELAJARAN\Tugas UKK RPL\system\View\View.php(210): include('D:\\PELAJARAN\\Tu...')
+#2 D:\PELAJARAN\Tugas UKK RPL\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\PELAJARAN\Tugas UKK RPL\system\Common.php(1089): CodeIgniter\View\View->render('catatan_perjala...', Array, true)
+#4 D:\PELAJARAN\Tugas UKK RPL\app\Controllers\catatanperjalanan.php(28): view('catatan_perjala...', Array)
+#5 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\CatatanPerjalanan->index()
+#6 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CatatanPerjalanan))
+#7 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#10 {main}

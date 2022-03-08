@@ -1,0 +1,50 @@
+CRITICAL - 2022-02-02 02:04:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\PELAJARAN\Tugas UKK RPL\spark(45): require('D:\\PELAJARAN\\Tu...')
+#4 {main}
+CRITICAL - 2022-02-02 02:05:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\PELAJARAN\Tugas UKK RPL\spark(45): require('D:\\PELAJARAN\\Tu...')
+#4 {main}
+CRITICAL - 2022-02-02 02:06:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\PELAJARAN\Tugas UKK RPL\spark(45): require('D:\\PELAJARAN\\Tu...')
+#4 {main}
+CRITICAL - 2022-02-02 19:52:17 --> Class "App\Models\User" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\Auth->login()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-02 20:10:34 --> Class "App\Models\User" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\Auth->login()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-02 20:21:24 --> Undefined array key "nama"
+#0 D:\PELAJARAN\Tugas UKK RPL\app\Models\user_model.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\PELAJARAN\\Tu...', 10)
+#1 D:\PELAJARAN\Tugas UKK RPL\app\Controllers\auth.php(11): App\Models\User_model::authenticate(NULL, NULL)
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\Auth->login()
+#3 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#7 {main}
+CRITICAL - 2022-02-02 20:21:53 --> Undefined array key "nama"
+#0 D:\PELAJARAN\Tugas UKK RPL\app\Models\user_model.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\PELAJARAN\\Tu...', 10)
+#1 D:\PELAJARAN\Tugas UKK RPL\app\Controllers\auth.php(11): App\Models\User_model::authenticate(NULL, NULL)
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\Auth->login()
+#3 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#7 {main}

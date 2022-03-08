@@ -1,0 +1,107 @@
+CRITICAL - 2022-02-01 21:42:27 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:42:30 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:42:37 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:43:12 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:43:13 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:45:20 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:54:41 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:55:00 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:55:01 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:55:50 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:56:02 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:56:28 --> Class "App\Controllers\services" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:57:10 --> Class "App\Controllers\Service" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 21:57:26 --> Class "App\Controllers\Service" not found
+#0 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#5 {main}
+CRITICAL - 2022-02-01 22:51:37 --> Undefined array key "nik"
+#0 D:\PELAJARAN\Tugas UKK RPL\app\Models\user.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\PELAJARAN\\Tu...', 10)
+#1 D:\PELAJARAN\Tugas UKK RPL\app\Controllers\auth.php(11): App\Models\User::authenticate('10111213141', 'mumu')
+#2 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(825): App\Controllers\Auth->login()
+#3 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 D:\PELAJARAN\Tugas UKK RPL\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\PELAJARAN\Tugas UKK RPL\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\PELAJARAN\Tugas UKK RPL\system\Commands\Server\rewrite.php(43): require_once('D:\\PELAJARAN\\Tu...')
+#7 {main}
